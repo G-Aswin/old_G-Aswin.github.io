@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Contents of my Github Pages Website
+1. Introduction
+2. Education
+3. Projects
+4. Skills
+5. Courses
+6. Contact me
 
 You can use the [editor on GitHub](https://github.com/G-Aswin/G-Aswin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
