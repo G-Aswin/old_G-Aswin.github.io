@@ -211,16 +211,20 @@ body > .container-fluid {
     margin-bottom: 10%; } }
 .portfolio-projects--btn {
   background: transparent;
-  color: #07374a;
-  border: 1px solid #07374a;
+  color: #25b79f;
+  border: 1px solid #25b79f;
   border-radius: 5px;
   margin-bottom: 1.25em; }
   .portfolio-projects--btn:hover {
-    background: #07374a;
+    background: #25b79f;
     color: #f0f0e6; }
 .portfolio-projects--image {
   margin-bottom: 1.875em;
-  padding-top: 5%; }
+  border-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  margin-top: 1.875em; }
+  
 
 #contact {
   background-color: #25b79f; }
