@@ -8,3 +8,4 @@
 4. New colour scheme (light purple or orange)
 5. Moving characters in my name
 6. Refactor the HTML code
+7. Remove "upcoming" from the bio.
