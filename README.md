@@ -9,3 +9,4 @@ Design credits : https://codepen.io/sonorangirl/pen/pjzqWj
 2. A button for Resume download instead of anchor.
 3. Custom cover picture for each project to make it uniform.
 4. Add all other projects which are not in resume also.
+**
